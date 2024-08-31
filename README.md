@@ -1,0 +1,2 @@
+# swisstronik
+swisstronik testnet
